@@ -1,0 +1,14 @@
+.default {
+    background-color: rgb(45, 45, 44);
+    color: rgb(244, 238, 233);
+}
+
+.secondary {
+    background-color: rgb(227, 230, 139);
+    color: rgb(45, 45, 44);
+}
+
+.default, .secondary {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
